@@ -14,14 +14,11 @@ This portfolio is designed to demonstrate skills in:
 
 This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
 
-### Project Title One
-*A brief description of your project, the tools used, and the key insights derived.*
+### Promotion ROI System 
+*This project traces a full analytics pipeline: raw FMCG data, Excel cleaning, Python feature engineering, Power BI executive dashboard. The goal was to identify which promotions drive real profit, which ones quietly destroy margin, and what that means strategically by category and location.*
 
-### Project Title Two
-*A brief description of your project, the tools used, and the key insights derived.*
-
-### Project Title Three
-*A brief description of your project, the tools used, and the key insights derived.*
+### AR dunning automation system
+*This project is an end-to-end automation I built to handle the full invoice-to-cash process; from receiving new invoices to tracking overdue payments and sending smart reminders.*
 
 
 ## 🛠️ Skills
